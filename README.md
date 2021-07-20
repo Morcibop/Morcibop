@@ -5,7 +5,7 @@ Morcibop is a two manned project, which is heavily focused in the design and dev
 # Project Organization
 
 Morcibop consists of two people:
-* Danielina Manzurlina: UI Designer and Beta Tester
+* Danielina: UI Designer and Beta Tester
 * Qmase: Developer
 
 # Projects
