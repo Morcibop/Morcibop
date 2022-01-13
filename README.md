@@ -6,7 +6,7 @@ Morcibop is a two manned project, which is heavily focused in the design and dev
 
 Morcibop consists of two people:
 * Danielina: UI Designer and Beta Tester
-* Qmase: Developer
+* Mauro Fuentes: Developer
 
 # Projects
 
